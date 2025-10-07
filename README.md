@@ -24,37 +24,6 @@
 - Structure content in a logical progression from simple → complex
 
 ---
-
-## 🧭 Folder Structure
-
-```plaintext
-Dynamic-Programming/
-├── 01_Basics_DP/
-│   ├── fibonacci_dp.cpp
-│   ├── climbing_stairs.cpp
-│   └── ...
-│
-├── 02_Knapsack_Variants/
-│   ├── 0_1_knapsack.cpp
-│   ├── unbounded_knapsack.cpp
-│   └── ...
-│
-├── 03_DP_on_Sequences/
-│   ├── longest_increasing_subsequence.cpp
-│   ├── longest_common_subsequence.cpp
-│   └── edit_distance.cpp
-│
-├── 04_DP_on_Intervals_And_Subarrays/
-│   ├── matrix_chain_multiplication.cpp
-│   ├── partition_dp.cpp
-│   └── ...
-│
-├── 05_DPGraphs_States/
-│   ├── bitmask_dp_states.cpp
-│   ├── dp_on_trees.cpp
-│   └── ...
-│
-└── README.md
 ## 🧠 Topics Covered
 
 - Basic DP (Fibonacci, Climbing Stairs, etc.)
@@ -99,3 +68,34 @@ You can:
 
 ---
 
+
+## 🧭 Folder Structure
+
+```plaintext
+Dynamic-Programming/
+├── 01_Basics_DP/
+│   ├── fibonacci_dp.cpp
+│   ├── climbing_stairs.cpp
+│   └── ...
+│
+├── 02_Knapsack_Variants/
+│   ├── 0_1_knapsack.cpp
+│   ├── unbounded_knapsack.cpp
+│   └── ...
+│
+├── 03_DP_on_Sequences/
+│   ├── longest_increasing_subsequence.cpp
+│   ├── longest_common_subsequence.cpp
+│   └── edit_distance.cpp
+│
+├── 04_DP_on_Intervals_And_Subarrays/
+│   ├── matrix_chain_multiplication.cpp
+│   ├── partition_dp.cpp
+│   └── ...
+│
+├── 05_DPGraphs_States/
+│   ├── bitmask_dp_states.cpp
+│   ├── dp_on_trees.cpp
+│   └── ...
+│
+└── README.md
