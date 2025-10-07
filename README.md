@@ -55,3 +55,47 @@ Dynamic-Programming/
 │   └── ...
 │
 └── README.md
+## 🧠 Topics Covered
+
+- Basic DP (Fibonacci, Climbing Stairs, etc.)
+- 0/1 Knapsack and Unbounded Knapsack
+- Sequence DP: LIS, LCS, Edit Distance, etc.
+- Interval DP, Partition DP, Matrix Chain Multiplication
+- DP with State Compression (Bitmask)
+- Tree DP and Graph + DP Hybrid Techniques
+- Optimization Techniques:
+  - Space optimization
+  - Rolling arrays
+  - Transition improvements
+
+---
+
+## 👥 Who This Is For
+
+- 🟢 Learners who understand basic algorithms and want to dive deeper  
+- 🎯 Students preparing for **coding interviews** (product & service companies)  
+- 🧠 Competitive programmers aiming to **master DP patterns** for contests  
+- 📝 Anyone looking for **clean, reusable code** & well-structured solutions
+
+---
+
+## 🤝 Contribution
+
+Contributions and improvements are always welcome! 🙌  
+You can:
+
+- ✍️ **Add new DP problems** and their variations  
+- ⚡ **Provide optimized solutions** or multiple approaches to existing problems  
+- 📝 Add **detailed comments**, edge cases, and **test cases**  
+- 🧭 Improve folder structure or add **roadmaps / topic-wise checklists**  
+- 🧠 Suggest new problem patterns or techniques to cover
+
+### How to Contribute
+1. **Fork** the repository  
+2. Make your changes in your branch  
+3. Open a **Pull Request (PR)** describing what you’ve added or changed  
+
+> Contributions of all levels — from typo fixes to new topics — are welcome!
+
+---
+
